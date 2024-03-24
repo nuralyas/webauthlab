@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<University>
+    <Students>
+        <Student>
+            <MatricNo>20240001</MatricNo>
+            <FirstName>Amirul</FirstName>
+            <LastName>bin Abdullah</LastName>
+            <ContactNo>012-3456789</ContactNo>
+            <Email>amirul@university.edu</Email>
+            <Address>
+                <City>Kuala Lumpur</City>
+                <State>Kuala Lumpur</State>
+                <Postcode>50200</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240002</MatricNo>
+            <FirstName>Balqis</FirstName>
+            <LastName>binti Badrul</LastName>
+            <ContactNo>019-8765432</ContactNo>
+            <Email>balqis@university.edu</Email>
+            <Address>
+                <City>Johor Bahru</City>
+                <State>Johor</State>
+                <Postcode>80000</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240003</MatricNo>
+            <FirstName>Cheng Wei</FirstName>
+            <LastName>Lee</LastName>
+            <ContactNo>018-7654321</ContactNo>
+            <Email>chengwei@university.edu</Email>
+            <Address>
+                <City>Penang Island</City>
+                <State>Penang</State>
+                <Postcode>10050</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240004</MatricNo>
+            <FirstName>Dania</FirstName>
+            <LastName>binti Darwish</LastName>
+            <ContactNo>012-9876543</ContactNo>
+            <Email>daniad@university.edu</Email>
+            <Address>
+                <City>Shah Alam</City>
+                <State>Selangor</State>
+                <Postcode>40100</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240005</MatricNo>
+            <FirstName>Emir Hakim</FirstName>
+            <LastName>bin Engku</LastName>
+            <ContactNo>019-9887766</ContactNo>
+            <Email>emirhakim@university.edu</Email>
+            <Address>
+                <City>Kota Kinabalu</City>
+                <State>Sabah</State>
+                <Postcode>88000</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240006</MatricNo>
+            <FirstName>Farah Amani</FirstName>
+            <LastName>binti Faisal</LastName>
+            <ContactNo>011-1223344</ContactNo>
+            <Email>farahamani@university.edu</Email>
+            <Address>
+                <City>Petaling Jaya</City>
+                <State>Selangor</State>
+                <Postcode>46100</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240007</MatricNo>
+            <FirstName>Goh Li</FirstName>
+            <LastName>Hwa</LastName>
+            <ContactNo>012-1243546</ContactNo>
+            <Email>gohli@university.edu</Email>
+            <Address>
+                <City>Ipoh</City>
+                <State>Perak</State>
+                <Postcode>30000</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240008</MatricNo>
+            <FirstName>Hadijah</FirstName>
+            <LastName>binti Hassan</LastName>
+            <ContactNo>012-9988123</ContactNo>
+            <Email>hadijah@university.edu</Email>
+            <Address>
+                <City>Seremban</City>
+                <State>Negeri Sembilan</State>
+                <Postcode>70000</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240009</MatricNo>
+            <FirstName>Iskandar</FirstName>
+            <LastName>bin Ibrahim</LastName>
+            <ContactNo>012-0109902</ContactNo>
+            <Email>iskandar.i@university.edu</Email>
+            <Address>
+                <City>Kuching</City>
+                <State>Sarawak</State>
+                <Postcode>93050</Postcode>
+            </Address>
+        </Student>
+        <Student>
+            <MatricNo>20240010</MatricNo>
+            <FirstName>Jasmine</FirstName>
+            <LastName>Lee</LastName>
+            <ContactNo>019-0110542</ContactNo>
+            <Email>jasminelee@university.edu</Email>
+            <Address>
+                <City>Kuching</City>
+                <State>Sarawak</State>
+                <Postcode>93050</Postcode>
+            </Address>
+        </Student>
+    </Students>
+</University>

@@ -1,0 +1,117 @@
+
+body {
+    font-family: 'Century Gothic', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+    background-color: #f8f8f8;
+    color: #333;
+    padding: 30px;
+}
+
+header {
+    background-color: #000;
+    color: #ffffff;
+    padding: 1rem 0;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    margin-bottom: 0.3rem;
+}
+
+nav {
+    margin-top: 1rem;
+}
+
+nav button {
+    background-color: #a497d0; 
+	font-family: 'Century Gothic', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffffff;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    margin: 0 0.5rem;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+nav button:hover {
+    background-color: #5a4f7f; 
+}
+
+
+main {
+    padding: 0 2rem;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.student {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.student:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
+}
+
+.student div {
+    margin-bottom: 0.75rem;
+    font-size: 0.95rem;
+}
+
+.student-matricNo {
+    color: #004d7a;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+.student-name {
+    color: #333;
+    font-weight: 700;
+}
+
+.student-contact,
+.student-email,
+.student-address {
+    color: #555;
+    font-weight: 400;
+}
+
+.city-groups {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.city-group {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: #f9f9f9;
+}
+
+.city-group h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+}
+
+.student {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #ffffff;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
